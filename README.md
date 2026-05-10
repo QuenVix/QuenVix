@@ -2,33 +2,29 @@
 
 ## 🌸 QuenVix
 
-<img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="220"/>
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="240"/>
 
 ```txt
-currently:
-iced coffee
-late night coding
-listening to music
+late night coding...
+small ideas turning into projects
 ```
 
-✦ ai ✦ web ✦ cute side projects ✦
+☁️ ai • web • tiny experiments ☁️
 
 </div>
 
 ---
 
-### open tabs
+### currently
 
-♡ pinterest  
-♡ github  
-♡ spotify  
-♡ random unfinished ideas
+- learning new things
+- fixing random bugs
+- building side projects
 
 ---
 
-### moodboard
+### vibe
 
-🌷 cozy coding  
-☁️ soft ui  
 🌙 night owl  
-🎧 music 24/7
+☕ coffee addict  
+💻 terminal enjoyer
