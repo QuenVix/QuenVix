@@ -1,15 +1,17 @@
 <div align="center">
 
-## 🐾 QuenVix.exe
+## 🌸 QuenVix
 
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAd/cat-computer.gif" width="250"/>
+<img src="https://media.tenor.com/bCfpwMjfAi0AAAAd/cat-typing.gif" width="220"/>
 
 ```txt
 currently:
-learning cool stuff
-drinking coffee
-breaking production
+iced coffee
+late night coding
+listening to music
 ```
+
+✦ ai ✦ web ✦ cute side projects ✦
 
 </div>
 
@@ -17,15 +19,16 @@ breaking production
 
 ### open tabs
 
-- ai
-- nextjs
-- random side projects
-- music 24/7
+♡ pinterest  
+♡ github  
+♡ spotify  
+♡ random unfinished ideas
 
 ---
 
-### mood
+### moodboard
 
-🌸 cozy  
+🌷 cozy coding  
+☁️ soft ui  
 🌙 night owl  
-⚡ curious
+🎧 music 24/7
